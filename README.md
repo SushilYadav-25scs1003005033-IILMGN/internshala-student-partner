@@ -18,7 +18,7 @@ This repository holds the official certificate of completion for my tenure as an
 
 ## 📜 Certificate Preview
 
-![Internshala Certificate](./certificate.jpg)
+![Internshala Certificate](Sushil_Yadav_Internship_Report_2026-27.jpg)
 
 ---
 
